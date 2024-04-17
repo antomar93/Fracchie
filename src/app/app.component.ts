@@ -39,17 +39,12 @@ export class AppComponent {
       description: 'This is',
     },
     {
-      url: "assets/6.jpg",
+      url: "assets/13.jpg",
       title: 'e',
       description: 'This is',
     },
     {
-      url: "assets/7.jpg",
-      title: 'f',
-      description: 'This is',
-    },
-    {
-      url: "assets/8.jpg",
+      url: "assets/14.jpg",
       title: 'g',
       description: 'This is',
     },
@@ -64,19 +59,19 @@ export class AppComponent {
       description: 'This is',
     },
     {
-      url: "assets/13.jpg",
+      url: "assets/7.jpg",
       title: 'n',
       description: 'This is',
     },
     {
-      url: "assets/14.jpg",
+      url: "assets/gif.gif",
       title: 'o',
       description: 'This is',
     },
     {
-      url: "assets/gif.gif",
-      title: 'p',
-      description: 'This is',
+      url: "assets/6.jpg",
+      title: 'End',
+      description: '',
     },
   ];
 }
